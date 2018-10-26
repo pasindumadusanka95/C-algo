@@ -1,2 +1,2 @@
 # C-algo
-C language algo
+some functions implemented using C
